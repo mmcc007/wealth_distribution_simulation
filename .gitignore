@@ -18,7 +18,7 @@ env/
 Thumbs.db
 
 # Matplotlib-generated images
-*.png
+# *.png
 
 # Jupyter Notebook
 .ipynb_checkpoints
